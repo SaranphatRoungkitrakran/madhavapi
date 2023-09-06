@@ -24,6 +24,7 @@ from  madhava import Madhava
 test = Madhava(50)
 
 ```
+It mean use Madhava formular for find 50 times of total π number.
 and this is the result:
 
 ```sh
