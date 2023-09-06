@@ -11,7 +11,7 @@ Hello Guy, I will show you about how to use Madhava series to find number near Ï
 If you already installed python.You can use command prompt or python shell and use command 'pip'
 
 ```sh
-pip install madhavapi
+pip install madhava==0.0.1
 ```
 
 Alright. After installed my module , you can use my module now.
