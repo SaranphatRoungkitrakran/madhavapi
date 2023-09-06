@@ -19,7 +19,7 @@ Alright. After installed my module , you can use my module now.
 How to use 
 - Open your python project and write by following this script
 ```sh
-from madhavapi import Madhava
+from  madhava==0.0.1 import Madhava
 
 test = madhava(50)
 
